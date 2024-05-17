@@ -2,7 +2,7 @@
 
 namespace Exercise1
 {
-    class Engine
+    public class Engine
     {
         private const int StateStopped = 1;
         private const int StateStarted = 2;
